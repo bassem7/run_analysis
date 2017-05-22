@@ -1,5 +1,4 @@
-
-CodeBook:
+#CodeBook
 
  - activityLabel:  factor variable of the activity performed. 6 Possibilities:  ("WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING")
  - subject: identifier for each subject (person). 30 possible subjects from 1-30

@@ -1,6 +1,5 @@
 # run_analysis
 
- README.md
 How the script works: 
 The purpose of the script is to read previously saved data from accelerometers from a training cohort, and a test cohort.  
 
